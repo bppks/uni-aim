@@ -1,11 +1,11 @@
 local Settings = {
-    Box_Color = Color3.fromRGB(255, 0, 0),
+    Box_Color = Color3.fromRGB(, 255, 255),
     Tracer_Color = Color3.fromRGB(255, 0, 0),
     Tracer_Thickness = 1,
     Box_Thickness = 1,
     Tracer_Origin = "Bottom", -- Middle or Bottom if FollowMouse is on this won't matter...
     Tracer_FollowMouse = false,
-    Tracers = true
+    Tracers = false
 }
 local Team_Check = {
     TeamCheck = false, -- if TeamColor is on this won't matter...
