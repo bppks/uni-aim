@@ -111,7 +111,7 @@ getgenv().ExunysDeveloperAimbot = {
 		Enabled = true,
 		Visible = true,
 
-		Radius = 25,
+		Radius = 50,
 		NumSides = 60,
 
 		Thickness = 1,
